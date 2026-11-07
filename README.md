@@ -6,7 +6,7 @@
 
 ```csharp
 
-Clouds ~> Fastfetch
+Yuma ~> Fastfetch
 ----------------
        OS  :  Nyarch | Windows
       CPU  :  ???
