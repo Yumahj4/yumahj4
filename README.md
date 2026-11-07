@@ -1,5 +1,5 @@
 ```zsh
-> Cheat ? Nah, just play different
+> I love coding random things
 ```
 
 <img align="left" src="https://i.imgur.com/xXmbwbs.png" width="175" /> 
@@ -8,7 +8,7 @@
 
 Clouds ~> Fastfetch
 ----------------
-       OS  :  Nyarch | Ryoku
+       OS  :  Nyarch | Windows
       CPU  :  ???
       GPU  :  ???
       RAM  :  ???
