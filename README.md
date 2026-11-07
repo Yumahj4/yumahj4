@@ -2,7 +2,7 @@
 > Cheat ? Nah, just play different
 ```
 
-<img align="left" src="https://i.imgur.com/xXmbwbs.png" width="100" /> 
+<img align="left" src="https://i.imgur.com/xXmbwbs.png" width="200" /> 
 
 ```csharp
 
